@@ -32,7 +32,7 @@ B). Edit your current SectorSpecifics.lua file and change/add these lines of cod
     --End Added by - Dirtyredz | David McClain
 
 DOWNLOAD:
-  https://github.com/dirtyredz/NoNuetralCore/archive/1.0.0.zip
+  https://github.com/dirtyredz/NoNeutralCore/releases/download/1.0.0/NoNeutralCore.v1.0.0.zip
 
 GITHUB:
   https://github.com/dirtyredz/NoNeutralCore
