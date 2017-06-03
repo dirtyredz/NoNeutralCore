@@ -1,6 +1,6 @@
 No Neutral Core
 
-This mode removes Neutral Zones prior to that sectors discovery.
+This mode stops Neutral Zones from generating. (prior to that sectors discovery)
 It is advised to add this mod prior to players entering the core.
 
 The distance modification can be changed by changing the number 150 to any value you would like to measure from the center:
@@ -32,6 +32,10 @@ B). Edit your current SectorSpecifics.lua file and change/add these lines of cod
     --End Added by - Dirtyredz | David McClain
 
 DOWNLOAD:
+  https://github.com/dirtyredz/NoNuetralCore/archive/1.0.0.zip
+
+GITHUB:
+  https://github.com/dirtyredz/NoNeutralCore
 
 UNINSTALL:
 
